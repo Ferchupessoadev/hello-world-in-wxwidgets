@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread CMakeFiles/hola_mundo_wxwidgets.dir/src/main.cpp.o -o hola_mundo_wxwidgets  -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 

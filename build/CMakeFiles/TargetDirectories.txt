@@ -1,0 +1,3 @@
+/home/ferchodev/app_basicwx/build/CMakeFiles/hola_mundo_wxwidgets.dir
+/home/ferchodev/app_basicwx/build/CMakeFiles/edit_cache.dir
+/home/ferchodev/app_basicwx/build/CMakeFiles/rebuild_cache.dir
